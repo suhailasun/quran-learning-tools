@@ -1,0 +1,44 @@
+body {
+  text-align: center;
+  background-color: lightgreen;
+}
+
+#cards {
+  background-color: white;
+  border: 10px solid green;
+  border-radius: 30px;
+  height: 120px;
+  padding: 20px;
+  margin: 10px;
+  display: block;
+}
+
+.cardcontainer {
+  float: left;
+  width: 16%;
+  display: inline;
+}
+
+img.card {
+  vertical-align: middle;
+  height: 100px;
+}
+
+#controls {
+  text-align: center;
+  display: block;
+  padding: 20px;
+  margin: 10px;
+}
+
+#scoreboard {
+  text-align: center;
+  display: block;
+  padding: 10px;
+  margin: 10px;
+}
+
+table {
+  border: 1px solid green;
+  width: 100%;
+}
